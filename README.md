@@ -1,1 +1,1 @@
-# anomaly-detector-bottle
+This project is an AI-powered quality control tool that detects defects in manufactured bottles using a deep learning model trained via Google's Teachable Machine and deployed with a simple, interactive Streamlit web app. It uses image classification to determine whether a bottle is normal or defective based on uploaded photos or real-time webcam input.
